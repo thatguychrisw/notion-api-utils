@@ -1,0 +1,14 @@
+{
+  "name": "@thatguychrisw/notion-api-utils",
+  "version": "0.0.3",
+  "description": "A collection of utilities for easily communicating to the notion API",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest ./tests"
+  },
+  "author": "Christopher Willard <thatguychrisw@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
+}
